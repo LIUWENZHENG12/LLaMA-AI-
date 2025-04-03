@@ -58,3 +58,4 @@ python main.py
 
 📌注意事項:
 這個專案需要使用者自行下載 LLaMA 模型 (meta-llama/Llama-2-7b-chat-hf) 並放到 models/ 資料夾中。
+訪問模型會有48小時限制，過了時效性需重新申請權限，可以到https://huggingface.co/查詢，或是到https://github.com/meta-llama下載檔案、申請訪問權限。
