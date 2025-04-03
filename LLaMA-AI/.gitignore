@@ -1,0 +1,9 @@
+llama-env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+models/
+data/
